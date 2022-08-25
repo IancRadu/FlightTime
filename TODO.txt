@@ -1,0 +1,4 @@
+1.Input values for flight search
+2.api call to get available flights in specified parameters
+3. if flight available show on screen
+4.option ask user if he want to receive mail with the info, when are available
